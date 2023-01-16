@@ -1,1 +1,1 @@
-# MusicEQ-Player
+Equalizer
